@@ -25,4 +25,4 @@ I also created an interactive dashboard related to these data using Tableau. To 
 
 ## Presentation Slides
 For a more detailed explanation, you can read the presentation slides which can be accessed in the file directory of this repository with the file name ***'E - Commerce - Slides.pdf'*** or directly click the following link:
-[Presentation Slides Link](https://github.com/AbyatarFL/Analyzing-E-Commerce-Data-in-the-US/blob/main/E%20-%20Commerce%20-%20Slides.pdf)
+[Presentation Slides Link](https://github.com/AbyatarFL/Capstone-AirBnB-Bangkok-Analysis/blob/bcc49f3c925fe08d38cb891ea64b22bf8b17bbcb/AirBnB_Bangkok_Analysis_Slides.pdf)

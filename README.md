@@ -24,5 +24,5 @@ I also created an interactive dashboard related to these data using Tableau. To 
 [Tableau Dashboard Link](https://public.tableau.com/views/CapstoneModule2_AirBnB_Abyatar/AirBnBBangkokDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Presentation Slides
-For a more detailed explanation, you can read the presentation slides which can be accessed in the file directory of this repository with the file name ***'E - Commerce - Slides.pdf'*** or directly click the following link:
+For a more detailed explanation, you can read the presentation slides which can be accessed in the file directory of this repository with the file name ***'AirBnB_Bangkok_Analysis_Slides.pdf'*** or directly click the following link:
 [Presentation Slides Link](https://github.com/AbyatarFL/Capstone-AirBnB-Bangkok-Analysis/blob/bcc49f3c925fe08d38cb891ea64b22bf8b17bbcb/AirBnB_Bangkok_Analysis_Slides.pdf)

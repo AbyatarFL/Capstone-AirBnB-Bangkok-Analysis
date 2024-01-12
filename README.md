@@ -21,7 +21,7 @@ Data Source:
 
 ## Tableau Dashboard
 I also created an interactive dashboard related to these data using Tableau. To access the dashboard, you can go to the following link:
-[Tableau Link](https://public.tableau.com/views/E-CommerceConsumerBehaviorintheUS_17025399920520/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard Link](https://public.tableau.com/views/CapstoneModule2_AirBnB_Abyatar/AirBnBBangkokDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Presentation Slides
 For a more detailed explanation, you can read the presentation slides which can be accessed in the file directory of this repository with the file name ***'E - Commerce - Slides.pdf'*** or directly click the following link:
